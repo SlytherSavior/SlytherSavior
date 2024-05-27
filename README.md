@@ -30,5 +30,5 @@ I began my IT journey in grade 7 and have since been passionately exploring vari
 
 ## 📫 Contact Me
 
-- **📧 Email:** Shrijan5414@gmail.com
+- **📧 Email:** shrijan5414@gmail.com
 - **🔗 LinkedIn:** [linkedin.com/in/slyther](https://linkedin.com/in/slyther)
