@@ -31,5 +31,7 @@ I began my IT journey in grade 7 and have since been passionately exploring vari
 
 ## 📫 Contact Me
 
-- **📧 Email:** shrijan5414@gmail.com
-- **🔗 LinkedIn:** [linkedin.com/in/slyther](https://linkedin.com/in/slyther)
+- **📧 Email**: shrijan5414@gmail.com
+- **🔗 LinkedIn**: [linkedin.com/in/slyther](https://linkedin.com/in/slyther)
+- **🐦 Twitter**: [twitter.com/SlytherShrijan](https://x.com/SlytherShrijan)
+- **🌐 Website**: [shrijanpoudel.com.np](https://www.shrijanpoudel.com.np)
