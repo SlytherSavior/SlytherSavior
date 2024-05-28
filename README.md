@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Shrijan, an aspiring full-stack developer, tec
 
 ## 👨‍💻 About Me
 
-I began my IT journey in grade 7 and have since been passionately exploring various fields of technology. I am currently pursuing my A Levels at SXC , with a strong foundation in Computer Science, Physics, Chemistry, Maths, and EGP.
+I began my IT journey in grade 7 and have since been passionately exploring various fields of technology. I am currently pursuing my A Levels at SXC, with a strong foundation in Computer Science, Physics, Chemistry, Maths, and EGP.
 
 ## 🛠️ Skills
 
@@ -21,6 +21,7 @@ I began my IT journey in grade 7 and have since been passionately exploring vari
 
 ## 🚀 Projects
 
+- **🌦️ Weatheria:** A Discord bot for weather updates, currently under development. This project uses Discord.js, Node.js, and OpenWeather API. Although it's a simple project, it serves as a foundation to enhance my coding skills and learn JavaScript more deeply. ( ongoing ) 
 - **🤖 Discord Quote Bot:** Built using JavaScript, Node.js, Express.
 - **🌐 Portfolio Website:** Developed with HTML, CSS, JavaScript, jQuery, Bootstrap.
 - **🥁 Drum Kit Website:** Created with HTML, CSS, jQuery, JavaScript.
