@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Shrijan, an aspiring full-stack developer, tec
 
 ## 👨‍💻 About Me
 
-I began my IT journey in grade 7 and have since been passionately exploring various fields of technology. I am currently pursuing my A Levels at St. Xavier's College, with a strong foundation in Computer Science, Physics, Chemistry, Maths, and EGP.
+I began my IT journey in grade 7 and have since been passionately exploring various fields of technology. I am currently pursuing my A Levels at SXC , with a strong foundation in Computer Science, Physics, Chemistry, Maths, and EGP.
 
 ## 🛠️ Skills
 
