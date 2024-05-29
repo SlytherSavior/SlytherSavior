@@ -35,7 +35,7 @@ I began my IT journey in grade 7 and have since been passionately exploring vari
 
 ![SlytherSavior's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SlytherSavior&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/SlytherSavior=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SlytherSavior&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ## 📫 Contact Me
 
 - **📧 Email**: shrijan5414@gmail.com
