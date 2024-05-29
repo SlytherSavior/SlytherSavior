@@ -29,8 +29,13 @@ I began my IT journey in grade 7 and have since been passionately exploring vari
 - **🎲 Dice Roll Website:** Designed using HTML, CSS, JavaScript.
 - **📚 MCQ Quiz App:** A quiz application for my college, using Angular, Node.js, HTML, CSS, TypeScript, JavaScript, with JSON files for questions.
 
-- [![GitHub Streak](https://streak-stats.demolab.com?user=SlytherSavior&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![SlytherSavior's Stats](https://github-readme-stats.vercel.app/api?username=SlytherSavior&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![SlytherSavior's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SlytherSavior&theme=vue-dark&hide_border=true)
+
+![SlytherSavior's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SlytherSavior&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/SlytherSavior=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ## 📫 Contact Me
 
 - **📧 Email**: shrijan5414@gmail.com
