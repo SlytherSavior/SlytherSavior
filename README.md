@@ -27,7 +27,7 @@ I began my IT journey in grade 7 and have since been passionately exploring vari
 - **🥁 Drum Kit Website:** Created with HTML, CSS, jQuery, JavaScript.
 - **🧩 Simon Game Website:** Made with HTML, CSS, jQuery, JavaScript.
 - **🎲 Dice Roll Website:** Designed using HTML, CSS, JavaScript.
-- **📚 MCQ Quiz App:** A quiz application for my college, using Angular, Node.js, HTML, CSS, TypeScript, JavaScript, with JSON files for questions.
+- **📚 MCQ Quiz App:** A quiz application for my college, using Angular, Node.js, HTML, CSS, TypeScript, JavaScript, with JSON files for questions. ( forked a repo ! made some necessary changes ) 
 
 ## 📊 GitHub Stats
 
