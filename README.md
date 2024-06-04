@@ -14,6 +14,7 @@ I began my IT journey in grade 7 and have since been passionately exploring vari
 - **Languages:** Java | Python | TypeScript
 - **Databases:** SQL | MongoDB
 - **Other Technologies:** Spring Framework | jQuery | Bootstrap
+- **Currently Learning:** Full Stack Development, ( Especially backend ) 
 
 ### Tools & Software
 - **IDEs & Code Editors:** Eclipse | VS Code
