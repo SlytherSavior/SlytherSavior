@@ -22,10 +22,10 @@ I began my IT journey in grade 7 and have since been passionately exploring vari
 
 ## 🚀 Projects
 
-- **🌦️ [Weatheria](https://github.com/SlytherSavior/Weatheria):** A Discord bot for weather updates. This project uses Discord.js, Node.js, and OpenWeather API. Although it's a simple project, it serves as a foundation to enhance my coding skills and learn JavaScript more deeply.
+- **🌦️ [Weatheria](https://github.com/SlytherSavior/Weatheria-):** A Discord bot for weather updates. This project uses Discord.js, Node.js, and OpenWeather API. Although it's a simple project, it serves as a foundation to enhance my coding skills and learn JavaScript more deeply.
 - **🤖 Discord Quote Bot:** Built using JavaScript, Node.js, Express.
-- **🖥️ JS Projects:** Built using vanilla HTML, CSS, and JavaScript.
-- **🌐 [Portfolio Website](https://shrijanpoudel.com.np):** Developed with HTML, CSS, JavaScript, jQuery, Bootstrap.
+- **🖥️ [JS Projects](https://github.com/SlytherSavior/JS-Projects):** Built using vanilla HTML, CSS, and JavaScript.
+- **🌐 [Portfolio Website](https://shrijanpoudel.com.np):** Developed with HTML, CSS, JavaScript, jQuery, Bootstrap. { currently under revamp } 
 - **🥁 Drum Kit Website:** Created with HTML, CSS, jQuery, JavaScript.
 - **🧩 Simon Game Website:** Made with HTML, CSS, jQuery, JavaScript.
 - **🎲 Dice Roll Website:** Designed using HTML, CSS, JavaScript.
