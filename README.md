@@ -24,14 +24,14 @@ I began my IT journey in grade 7 and have since been passionately exploring vari
 
 - **💸 [FinancialAdvisorManagement](https://github.com/SlytherSavior/Financial-Advisor-Management-System):** Backend Implementation of Financial Advisor Management System developed as a part of Wells Fargo SWE simulation on Forage.
 - **🌦️ [Weatheria](https://github.com/SlytherSavior/Weatheria-):** A Discord bot for weather updates. This project uses Discord.js, Node.js, and OpenWeather API. Although it's a simple project, it serves as a foundation to enhance my coding skills and learn JavaScript more deeply.
+- **📚 MCQ Quiz App:** A quiz application for my college, using Angular, Node.js, HTML, CSS, TypeScript, JavaScript, with JSON files for questions.
 - **🤖 Discord Quote Bot:** Built using JavaScript, Node.js, Express.
+- **💻 9618 P4 Repository:** Contains code for stack, queue, linked list, and other related concepts from the CAIE 9618 syllabus.
 - **🖥️ [JS Projects](https://github.com/SlytherSavior/JS-Projects):** Built using vanilla HTML, CSS, and JavaScript.
 - **🌐 [Portfolio Website](https://shrijanpoudel.com.np):** Developed with HTML, CSS, JavaScript, jQuery, Bootstrap. { currently under revamp } 
 - **🥁 Drum Kit Website:** Created with HTML, CSS, jQuery, JavaScript.
 - **🧩 Simon Game Website:** Made with HTML, CSS, jQuery, JavaScript.
 - **🎲 Dice Roll Website:** Designed using HTML, CSS, JavaScript.
-- **📚 MCQ Quiz App:** A quiz application for my college, using Angular, Node.js, HTML, CSS, TypeScript, JavaScript, with JSON files for questions.
-- **9618 P4 Repository:** Contains code for stack, queue, linked list, and other related concepts from the CAIE 9618 syllabus.
 
 ## 📊 GitHub Stats
 
