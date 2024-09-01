@@ -22,6 +22,7 @@ I began my IT journey in grade 7 and have since been passionately exploring vari
 
 ## 🚀 Projects
 
+- **💸 [FinancialAdvisorManagement](https://github.com/SlytherSavior/Financial-Advisor-Management-System):** Backend Implementation of Financial Advisor Management System developed as a part of Wells Fargo SWE simulation on Forage.
 - **🌦️ [Weatheria](https://github.com/SlytherSavior/Weatheria-):** A Discord bot for weather updates. This project uses Discord.js, Node.js, and OpenWeather API. Although it's a simple project, it serves as a foundation to enhance my coding skills and learn JavaScript more deeply.
 - **🤖 Discord Quote Bot:** Built using JavaScript, Node.js, Express.
 - **🖥️ [JS Projects](https://github.com/SlytherSavior/JS-Projects):** Built using vanilla HTML, CSS, and JavaScript.
