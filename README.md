@@ -45,9 +45,6 @@ I began my IT journey in grade 7 and have since been passionately exploring vari
 
 ![Shrijan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SlytherSavior&theme=react-dark)
 
-![Shrijan's GitHub metrics](https://metrics.lecoq.io/SlytherSavior?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FKathmandu)
-
-<a href="https://app.daily.dev/SlytherSavior"><img src="https://github.com/SlytherSavior/devcard.svg" width="400" alt="Shrijan's Dev Card"/></a>
 
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SlytherSavior&theme=onedark" alt="SlytherSavior's Trophy"></a>
