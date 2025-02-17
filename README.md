@@ -16,8 +16,8 @@
 
 ## 🚀 My Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,angular,nodejs,express,electron,python,java,flutter,dart,androidstudio,mysql,postgres,mongodb,prisma,axios,npm,pnpm,yarn,vscode,eclipse,bash,git,github,postman,figma,canva,ps,pr,ae,xd,au,ai" alt="Tech Stack">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,angular,nodejs,express,electron,python,java,flutter,dart,androidstudio,mysql,postgres,mongodb,prisma,npm,pnpm,yarn,vscode,eclipse,bash,git,github,postman,figma,canva,ps,pr,ae,xd,au,ai" alt="Tech Stack">
 </p>
 
 ---
