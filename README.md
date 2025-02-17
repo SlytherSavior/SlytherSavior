@@ -14,25 +14,61 @@
 
 ---
 
-## 🛠️ My Tech Stack
+## 🚀 My Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,flutter,dart"/>  
-  <img src="https://skillicons.dev/icons?i=nodejs,express,electron,bash,jwt,axios"/>  
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,cs"/>  
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,mysql"/>  
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,figma,ai,ps,ae,pr"/>  
+### 🌐 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular" alt="Frontend Tech Stack">
+</p>
+
+### 🔥 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,electron,python,java" alt="Backend Tech Stack">
+</p>
+
+### 📱 Mobile Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Mobile Development Stack">
+</p>
+
+### 💾 Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" alt="Database Stack">
+</p>
+
+### 🛠️ Tools & IDEs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,bash,git,github,postman" alt="Tools and IDEs">
+</p>
+
+### 🎨 Design & Multimedia
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ae,pr" alt="Design & Multimedia Stack">
 </p>
 
 ---
 
-## 🚀 Projects
+## 🌟 Featured Projects
 
-🔹 **[Financial Advisor Management System](https://github.com/SlytherSavior/Financial-Advisor-Management-System)** (Backend for Wells Fargo's SWE simulation)  
-🔹 **[Rewards Converter System](https://github.com/SlytherSavior/RewardsConverter-System)** (Backend for JPMorgan Chase SWE project)  
-🔹 **[Weatheria](https://github.com/SlytherSavior/Weatheria-)** (Discord bot fetching weather updates)  
-🔹 **[MCQ Quiz App](https://github.com/SlytherSavior/MCQ_QUIZZ)** (Full-stack quiz app in Angular & Node.js)  
-🔹 **[9618 P4 Repository](https://github.com/SlytherSavior/9618-P4)** (CAIE 9618 CS paper 4 solutions)  
+### 🏦 Financial Advisor Management System *(Java, Spring Boot)*
+🔗 [View on GitHub](https://github.com/SlytherSavior/Financial-Advisor-Management-System)
+> Developed as part of Wells Fargo's SWE simulation. A financial advisory platform with **secure transactions and data analysis.**
+
+### 💳 Rewards Converter System *(Java, Spring Boot)*
+🔗 [View on GitHub](https://github.com/SlytherSavior/RewardsConverter-System)
+> Backend for JPMorgan Chase's SWE simulation, converting reward points into real-world benefits.
+
+### ☁️ Weatheria *(Discord.js, JavaScript)*
+🔗 [View on GitHub](https://github.com/SlytherSavior/Weatheria-)
+> A **Discord bot** that fetches **live weather updates** using OpenWeather API. 🌦️
+
+### 📚 MCQ Quiz App *(Angular, Node.js, TypeScript)*
+🔗 [View on GitHub](https://github.com/SlytherSavior/MCQ_QUIZZ)
+> A **full-stack quiz application** built for my college with **authentication and real-time leaderboards.**
+
+### 🖥️ 9618 P4 Repository *(Python, Java)*
+🔗 [View on GitHub](https://github.com/SlytherSavior/9618-P4)
+> A **collection of CAIE 9618 Computer Science** solutions, including **Stacks, Queues, and Linked Lists.**
 
 ---
 
@@ -41,33 +77,31 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SlytherSavior&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Shrijan's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlytherSavior&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Shrijan's Top Languages">
-  <br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=SlytherSavior&theme=blood-dark" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SlytherSavior&theme=blood-dark" alt="GitHub Streak" /></a>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SlytherSavior/SlytherSavior/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SlytherSavior/SlytherSavior/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SlytherSavior/SlytherSavior/output/github-snake.svg" />
+  </picture>
 </p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SlytherSavior&theme=react-dark)
 
 ---
 
 ## 🏆 Achievements & Badges
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SlytherSavior&theme=onedark" alt="Shrijan's Trophies">
-  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SlytherSavior&theme=onedark" alt="Shrijan's Trophies"></a>
 </p>
 
 ---
 
 ## 📫 Let's Connect!
 
-<p align="center">
-  <a href="mailto:contact@shrijanpoudel.com.np"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/slyther"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/SlytherShrijan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.shrijanpoudel.com.np"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-</p>
+- **📧 Email:** [contact@shrijanpoudel.com.np](mailto:contact@shrijanpoudel.com.np)  
+- **🔗 LinkedIn:** [linkedin.com/in/slyther](https://linkedin.com/in/slyther)  
+- **🐦 Twitter:** [twitter.com/SlytherShrijan](https://x.com/SlytherShrijan)  
+- **🌐 Website:** [shrijanpoudel.com.np](https://www.shrijanpoudel.com.np)  
 
----
-
-⭐️ *Don't forget to star some repos and drop me a message if you'd like to collaborate!* 🚀
+⭐️ *Don't forget to star some repos and drop me a message if you'd like to collaborate!* 🚀🔥
