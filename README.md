@@ -24,11 +24,11 @@
 
 ## 🌟 Featured Projects
 
-### 🏦 Financial Advisor Management System *(Java, Spring Boot)*
+### 🏦 Financial Advisor Management System *(Java)*
 👉 [View on GitHub](https://github.com/SlytherSavior/Financial-Advisor-Management-System)
 > Developed as part of Wells Fargo's SWE simulation.
 
-### 💳 Rewards Converter System *(Java, Spring Boot)*
+### 💳 Rewards Converter System *(Java)*
 👉 [View on GitHub](https://github.com/SlytherSavior/RewardsConverter-System)
 > Backend for JPMorgan Chase's SWE simulation, converting reward points into real-world benefits.
 
