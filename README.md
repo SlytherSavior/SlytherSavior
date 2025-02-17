@@ -5,12 +5,6 @@
 </p>
 
 ---
-# ✨ Shrijan Poudel ✨
-
-**Welcome to my GitHub profile!** 🚀 
-I'm Shrijan, an aspiring **full-stack developer**, tech enthusiast, and passionate learner. Currently diving deep into **full-stack development, mobile apps, and multimedia!**
-
----
 
 ## 👨‍💻 About Me
 
