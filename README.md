@@ -104,7 +104,9 @@ I'm Shrijan, an aspiring full-stack developer, tech enthusiast, and passionate l
 
 ## 📫 Let's Connect!
 
-- **📧 Email:** [shrijan5414@gmail.com](mailto:shrijan5414@gmail.com)
+- **📧 Email:** [contact@shrijanpoudel.com.np
+](mailto:contact@shrijanpoudel.com.np
+)
 - **🔗 LinkedIn:** [linkedin.com/in/slyther](https://linkedin.com/in/slyther)
 - **🐦 Twitter:** [twitter.com/SlytherShrijan](https://x.com/SlytherShrijan)
 - **🌐 Website:** [shrijanpoudel.com.np](https://www.shrijanpoudel.com.np)
