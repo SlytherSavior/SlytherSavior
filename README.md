@@ -68,10 +68,10 @@ I'm Shrijan, an aspiring full-stack developer, tech enthusiast, and passionate l
 - **🌦️ [Weatheria](https://github.com/SlytherSavior/Weatheria-):**  
   A Discord bot that fetches weather updates using Discord.js and OpenWeather API.
 
-- **📚 [MCQ Quiz App](https://github.com/SlytherSavior/MCQ-Quiz-App):**  
+- **📚 [MCQ Quiz App](https://github.com/SlytherSavior/MCQ_QUIZZ):**  
   A full-stack quiz application for my college built with Angular, Node.js, and TypeScript.
 
-- **🤖 [Discord Quote Bot](https://github.com/SlytherSavior/Discord-Quote-Bot):**  
+- **🤖 [Discord Quote Bot](https://github.com/SlytherSavior/Encourage-Bot-):**  
   Simple bot for random quotes, built with JavaScript and Node.js.
 
 - **🖥️ [9618 P4 Repository](https://github.com/SlytherSavior/9618-P4):**  
