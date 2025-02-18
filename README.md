@@ -51,7 +51,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SlytherSavior&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Shrijan's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlytherSavior&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Shrijan's Top Languages">
+</p>
   [![GitHub Streak](https://streak-stats.demolab.com/?user=SlytherSavior)](https://git.io/streak-stats)
+<p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SlytherSavior/SlytherSavior/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SlytherSavior/SlytherSavior/output/github-snake.svg" />
