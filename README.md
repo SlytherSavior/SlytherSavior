@@ -24,17 +24,13 @@
 
 ## 🌟 Featured Projects
 
-### 🏦 Financial Advisor Management System *(Java)*
-👉 [View on GitHub](https://github.com/SlytherSavior/Financial-Advisor-Management-System)
-> Developed as part of Wells Fargo's SWE simulation.
-
-### 💳 Rewards Converter System *(Java)*
-👉 [View on GitHub](https://github.com/SlytherSavior/RewardsConverter-System)
-> Backend for JPMorgan Chase's SWE simulation, converting reward points into real-world benefits.
-
 ### ☁️ Weatheria *(Discord.js, JavaScript)*
 👉 [View on GitHub](https://github.com/SlytherSavior/Weatheria-)
 > A **Discord bot** that fetches **live weather updates** using OpenWeather API. 🌦️
+
+### 💬 EncourageBOT *(Discord.js, JavaScript)*
+👉 [View on Github](https://github.com/SlytherSavior/Encourage-bot-)
+> A **Discord bot** i made when i was first learning java script, which gives good quotes when prompted a command with 💲 tag. 
 
 ### 📚 MCQ Quiz App *(Angular, Node.js, TypeScript)*
 👉 [View on GitHub](https://github.com/SlytherSavior/MCQ_QUIZZ)
@@ -43,6 +39,14 @@
 ### 🔦 9618 P4 Repository *(Python, Java)*
 👉 [View on GitHub](https://github.com/SlytherSavior/9618-P4)
 > A **collection of CAIE 9618 Computer Science** solutions, including **Stacks, Queues, and Linked Lists.**
+
+### 🏦 Financial Advisor Management System *(Java)*
+👉 [View on GitHub](https://github.com/SlytherSavior/Financial-Advisor-Management-System)
+> Developed as part of Wells Fargo's SWE simulation.
+
+### 💳 Rewards Converter System *(Java)*
+👉 [View on GitHub](https://github.com/SlytherSavior/RewardsConverter-System)
+> Backend for JPMorgan Chase's SWE simulation, converting reward points into real-world benefits.
 
 ---
 
