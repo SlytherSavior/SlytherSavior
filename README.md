@@ -1,7 +1,7 @@
 # 🌟 Shrijan Poudel 🌟
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1500&pause=200&color=F7B733&center=true&vCenter=true&multiline=true&width=750&height=60&lines=Aspiring+Full-Stack+Developer;Tech+Enthusiast+%7C+Passionate+Learner" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1500&pause=200&color=F7B733&center=true&vCenter=true&multiline=true&width=750&height=60&lines=Aspiring+Software+Developer;Tech+Enthusiast+%7C+Passionate+Learner" alt="Typing SVG"/>
 </p>
 
 ---
