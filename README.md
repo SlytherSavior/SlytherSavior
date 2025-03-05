@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,svelte,nextjs,angular,deno,nodejs,express,electron,python,java,flutter,dart,androidstudio,mysql,postgres,mongodb,prisma,npm,pnpm,yarn,vscode,eclipse,bash,git,github,postman,figma,ps,pr,ae,xd,au,ai" alt="Tech Stack">
 </p>
----
+
 
 ## 🌟 Featured Projects
 
