@@ -36,7 +36,7 @@
 > A **full-stack quiz application** built for my college.
 
 ### 🎓 CIE A-Level Exam Timer *(Vanilla JS, HTML5, CSS)*
-👉 [View on GitHub](https://github.com/SlytherSavior/PastPaper-Timer) [Try it out](https://slythersavior.github.io/PastPaper-Timer/) ⚡
+👉 [View on GitHub](https://github.com/SlytherSavior/PastPaper-Timer) | [Try it out](https://slythersavior.github.io/PastPaper-Timer/) ⚡
 >  A **web-based timer application** helping A-Level students practice past papers under exam conditions.
 
 ### 🔦 9618 P4 Repository *(Python, Java)*
