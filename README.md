@@ -37,7 +37,7 @@
 
 ### 🎓 CIE A-Level Exam Timer *(Vanilla JS, HTML5, CSS)*
 👉 [View on GitHub](https://github.com/SlytherSavior/PastPaper-Timer) [Try it out](https://slythersavior.github.io/PastPaper-Timer/) ⚡
->  web-based timer application helping A-Level students practice past papers under exam conditions.
+>  A web-based timer application helping A-Level students practice past papers under exam conditions.
 
 ### 🔦 9618 P4 Repository *(Python, Java)*
 👉 [View on GitHub](https://github.com/SlytherSavior/9618-P4)
@@ -46,10 +46,6 @@
 ### 🏦 Financial Advisor Management System *(Java)*
 👉 [View on GitHub](https://github.com/SlytherSavior/Financial-Advisor-Management-System)
 > Developed as part of Wells Fargo's SWE simulation.
-
-### 💳 Rewards Converter System *(Java)*
-👉 [View on GitHub](https://github.com/SlytherSavior/RewardsConverter-System)
-> Backend for JPMorgan Chase's SWE simulation, converting reward points into real-world benefits.
 
 ---
 
