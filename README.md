@@ -35,6 +35,10 @@
 👉 [View on GitHub](https://github.com/SlytherSavior/MCQ_QUIZZ)
 > A **full-stack quiz application** built for my college.
 
+### 🎓 CIE A-Level Exam Timer *(Vanilla JS, HTML5, CSS)*
+👉 [View on GitHub](https://github.com/SlytherSavior/PastPaper-Timer) [Try it out](https://slythersavior.github.io/PastPaper-Timer/) ⚡
+>  web-based timer application helping A-Level students practice past papers under exam conditions.
+
 ### 🔦 9618 P4 Repository *(Python, Java)*
 👉 [View on GitHub](https://github.com/SlytherSavior/9618-P4)
 > A **collection of CAIE 9618 Computer Science** solutions, including **Stacks, Queues, and Linked Lists.**
