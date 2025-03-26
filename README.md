@@ -37,11 +37,15 @@
 
 ### 🎓 CIE A-Level Exam Timer *(Vanilla JS, HTML5, CSS)*
 👉 [View on GitHub](https://github.com/SlytherSavior/PastPaper-Timer) [Try it out](https://slythersavior.github.io/PastPaper-Timer/) ⚡
->  A web-based timer application helping A-Level students practice past papers under exam conditions.
+>  A **web-based timer application** helping A-Level students practice past papers under exam conditions.
 
 ### 🔦 9618 P4 Repository *(Python, Java)*
 👉 [View on GitHub](https://github.com/SlytherSavior/9618-P4)
 > A **collection of CAIE 9618 Computer Science** solutions, including **Stacks, Queues, and Linked Lists.**
+
+### 📝 README Generator *(Vanilla JS, HTML5, CSS)*
+👉 [View on GitHub](https://github.com/slythersavior/Readme-Generator) | [Live Demo](https://slythersavior.github.io/Readme-Generator/) 
+>  A modern web tool that helps developers **create beautiful GitHub profile READMEs** with dynamic stats, animated text, and tech stack visualization.
 
 ### 🏦 Financial Advisor Management System *(Java)*
 👉 [View on GitHub](https://github.com/SlytherSavior/Financial-Advisor-Management-System)
