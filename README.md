@@ -24,6 +24,10 @@
 
 ## 🌟 Featured Projects
 
+### 🎒 Lost & Found *(React Native, Firebase, NativeWind)*  
+👉 [View on GitHub](https://github.com/SlytherSavior/lost-and-found)  
+> A **mobile app** for schools to report **lost or found items**, built with **React Native + Firebase**. 🔎
+
 ### ☁️ Weatheria *(Discord.js, JavaScript)*
 👉 [View on GitHub](https://github.com/SlytherSavior/Weatheria-)
 > A **Discord bot** that fetches **live weather updates** using OpenWeather API. 🌦️
@@ -34,7 +38,7 @@
 
 ### 📚 MCQ Quiz App *(Angular, Node.js, TypeScript)*
 👉 [View on GitHub](https://github.com/SlytherSavior/MCQ_QUIZZ)
-> A **full-stack quiz application** built for my college.
+> A **full-stack quiz application** built for my high school.
 
 ### 🎓 CIE A-Level Exam Timer *(Vanilla JS, HTML5, CSS)*
 👉 [View on GitHub](https://github.com/SlytherSavior/PastPaper-Timer) | [Try it out](https://slythersavior.github.io/PastPaper-Timer/) ⚡
@@ -47,11 +51,7 @@
 ### 📝 README Generator *(Vanilla JS, HTML5, CSS)*
 👉 [View on GitHub](https://github.com/slythersavior/Readme-Generator) | [Live Demo](https://slythersavior.github.io/Readme-Generator/) 
 >  A modern web tool that helps developers **create beautiful GitHub profile READMEs** with dynamic stats, animated text, and tech stack visualization.
-
-### 🏦 Financial Advisor Management System *(Java)*
-👉 [View on GitHub](https://github.com/SlytherSavior/Financial-Advisor-Management-System)
-> Developed as part of Wells Fargo's SWE simulation.
-
+> 
 ---
 
 ## 📊 GitHub Stats
