@@ -9,7 +9,6 @@
 ## 👨‍💻 About Me
 
 🎓 **Education:** A-Level Student @ SXC | Focused on **Computer Science, Physics, Chemistry, Maths, and EGP**  
-🌍 **Current Goals:** Mastering **backend development and DevOps**, while preparing for an exciting tech career.  
 💡 **Tech Journey:** Exploring every **nook and cranny** of technology since few years!  
 
 ---
