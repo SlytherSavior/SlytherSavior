@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **Education:** A-Level Student @ SXC | Focused on **Computer Science, Physics, Chemistry, Maths, and EGP**  
+🎓 **Education:** Data Science & Maths @ Howard University  
 💡 **Tech Journey:** Exploring every **nook and cranny** of technology since few years!  
 
 ---
